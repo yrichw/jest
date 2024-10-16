@@ -1,2 +1,3 @@
 # jest
-javascript unit test
+javascript unit test user manual
+beginner friendly
