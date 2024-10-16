@@ -1,5 +1,5 @@
 // tests/utils/getSearchObj.test.ts
-import getSearchObj from "@/utils/getSearchObj";
+import getSearchObj from "utils/getSearchObj";
 
 describe("getSearchObj", () => {
   it("可以获取当前网址的查询参数对象", () => {

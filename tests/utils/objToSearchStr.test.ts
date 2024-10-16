@@ -1,4 +1,4 @@
-import objToSearchStr from "@/utils/objToSearchStr";
+import objToSearchStr from "utils/objToSearchStr";
 describe("objToSearchStr", () => {
   it("can convert object to query str", () => {
     expect(

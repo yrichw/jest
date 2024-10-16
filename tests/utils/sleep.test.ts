@@ -1,5 +1,5 @@
 // tests/utils/sleep.test.ts
-import sleep from "@/utils/sleep";
+import sleep from "utils/sleep";
 
 describe("sleep", () => {
   it("可以在 1s 后再执行", async () => {

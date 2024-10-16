@@ -1,5 +1,5 @@
 // tests/utils/storage.test.ts
-import storage from "@/utils/storage";
+import storage from "utils/storage";
 
 describe("storage", () => {
   it("can store temp key", () => {
